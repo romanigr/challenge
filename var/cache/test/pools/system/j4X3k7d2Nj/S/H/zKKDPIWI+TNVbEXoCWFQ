@@ -1,0 +1,3 @@
+<?php //App%255CEntity%255CSeason
+
+return [PHP_INT_MAX, []];
